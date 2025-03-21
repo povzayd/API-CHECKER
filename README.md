@@ -17,9 +17,9 @@ This project aims to expand and support API key validation for multiple services
 - And more... 🤔
 
 📋 Usage
-1. git clone (link unavailable) 📋
-2. chmod +x api-key-validator.sh 🔓
-3. ./api-key-validator.sh 🚀
+1. git clone https://github.com/povzayd/API-CHECKER.git 📋
+2. chmod +x heroku.sh 🔓
+3. ./heroku.sh 🚀
 4. Enter the path to your text file containing API keys when prompted 📝
 
 🤝 Contributing
