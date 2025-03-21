@@ -7,7 +7,9 @@ A Bash script to validate API keys for various services 🚀
 📊 Current Support
 - Heroku API key validation 📈
 - Square API key validation 📈
-- 
+- MailGun API key validation 📈
+- Twilio  API key validation 📈
+  
 🚀 Future Plans
 This project aims to expand and support API key validation for multiple services, including but not limited to:
 
