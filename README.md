@@ -6,7 +6,8 @@ A Bash script to validate API keys for various services 🚀
 
 📊 Current Support
 - Heroku API key validation 📈
-
+- Square API key validation 📈
+- 
 🚀 Future Plans
 This project aims to expand and support API key validation for multiple services, including but not limited to:
 
@@ -18,7 +19,7 @@ This project aims to expand and support API key validation for multiple services
 
 📋 Usage
 1. git clone https://github.com/povzayd/API-CHECKER.git 📋
-2. chmod +x heroku.sh 🔓
+2. chmod +x * 🔓
 3. ./heroku.sh 🚀
 4. Enter the path to your text file containing API keys when prompted 📝
 
@@ -31,7 +32,7 @@ Contributions are welcome! If you'd like to add support for more services or imp
 4. Open a pull request 📈
 
 📜 License
-This project is licensed under the MIT License 📜. See (link unavailable) for details.
+This project is licensed under the MIT License 📜. See LICENCE.md for details.
 
 🚨 Disclaimer
 This project is for testing and validation purposes only 🚨. Use responsibly and in compliance with applicable laws and regulations 🤝.
