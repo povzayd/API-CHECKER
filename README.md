@@ -21,10 +21,10 @@ This project aims to expand and support API key validation for multiple services
 
 📋 Usage
 ```
- git clone https://github.com/povzayd/API-CHECKER.git 📋
- chmod +x * 🔓
- ./heroku.sh 🚀
- Enter the path to your text file containing API keys when prompted 📝
+ git clone https://github.com/povzayd/API-CHECKER.git 
+ chmod +x * 
+ ./heroku.sh 
+ Enter the path to your text file containing API keys when prompted 
 ```
 🤝 Contributing
 Contributions are welcome! If you'd like to add support for more services or improve existing functionality, please:
